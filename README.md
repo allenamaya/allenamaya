@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Grab a ☕ (or your beverage of choice) and let me
 
 I've worn many hats in my tech journey (and not just to hide my bad hair days):
 
-- 🧪 Lab Technician at Savannah Informatics: Where I learned that mixing code is way more fun than mixing chemicals
+- 🧪 Front-end Developer at Savannah Informatics: Where I learned that mixing code is way more fun than mixing chemicals
 - 🎨 UI/UX Designer at iTalanta: Because making buttons pretty is an art form
 - 💻 Software Engineer Intern at iTalanta: Where I turned coffee into code and dreams into reality
 

@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Allen Ahlee Amaya
+# 👋 Hello, World! I'm Allen Amaya
 
 ## 💻 Software Engineer | 🌐 Web Developer | 🐶 Dog Dad | 🎭 Aspiring Voice Actor
 
